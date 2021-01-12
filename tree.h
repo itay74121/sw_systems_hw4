@@ -28,5 +28,4 @@ void print_words(node * start,  char * part); // print the words in lexicographi
 
 void print_words_reversed(node * start,  char * part);  // print words in lexicographic order (down) z to a 
 
-int length(char * string);
 #endif
